@@ -1,28 +1,28 @@
 import logo from "../assets/logo.svg";
 
 const blogData = {
-  name: "Underreacted",
+  name: "The 🌹'n Vibe	",
   image: logo,
-  about: "A blog about learning React",
+  about: "Celebrate Every Day",
   posts: [
     {
       id: 1,
-      title: "Components 101",
+      title: "Existential Tech",
       date: "December 15, 2020",
-      preview: "Setting up the building blocks of your site",
+      preview: "You are The DOM - now what are you going to do about it",
       minutes: 5,
     },
     {
       id: 2,
-      title: "React Data Flow",
+      title: "The Purpose Of Meditation",
       date: "December 11, 2020",
-      preview: "Passing props is never passé",
+      preview: "Get into your flow",
       minutes: 15,
     },
     {
       id: 3,
-      title: "Function vs Class Components",
-      preview: "React, meet OOJS.",
+      title: "Why So Much Detail!?",
+      preview: "A world of definition (and Annoying Syntax)",
       minutes: 47,
     },
   ],
